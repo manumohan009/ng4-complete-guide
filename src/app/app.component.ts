@@ -12,4 +12,4 @@ export class AppComponent {
     this.loadedFeature = feature;
   }
 }
-// Chapter - 5 Complete
+//Chapter-12,  9. Passing Dynamic Parameters to Links - Complete
